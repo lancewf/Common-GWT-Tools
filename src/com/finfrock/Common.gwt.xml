@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <!-- Inherit the core Web Toolkit stuff.                        -->
+  <inherits name='com.google.gwt.user.User'/>
+  <inherits name='com.gwittit.GwtFacebook' />
+  <inherits name="com.google.code.gwt.geolocation.Html5Geolocation"/>
+  
+</module>
